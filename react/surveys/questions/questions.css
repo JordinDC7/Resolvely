@@ -1,0 +1,23 @@
+.survey-question-form{
+  width: 100%; 
+}
+
+.button-no-border{
+  border: none;
+}
+
+.sq-input-noBorder{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.question-list-scrollable{
+  max-height: 550px;
+  overflow-y: auto;
+}
+.question-list-scrollable::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
