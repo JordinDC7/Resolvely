@@ -1,8 +1,8 @@
 # Resolvely
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo)](https://github.com/yourusername/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo)](https://github.com/yourusername/your-repo/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo)](https://github.com/yourusername/your-repo/issues)
+[![GitHub stars](https://img.shields.io/github/stars/JordinDC7/Resolvely)](https://github.com/yourusername/your-repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/stars/JordinDC7/Resolvely)](https://github.com/yourusername/your-repo/network)
+[![GitHub issues](https://img.shields.io/github/stars/JordinDC7/Resolvely)](https://github.com/yourusername/your-repo/issues)
 
 Some code samples from my Resolvely work that were approved to be uploaded to a public repo. 
 
