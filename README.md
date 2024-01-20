@@ -1,4 +1,4 @@
-# Resolvely
+# Resolvely Code Preview!
 
 [![GitHub stars](https://img.shields.io/github/stars/JordinDC7/Resolvely)](https://github.com/yourusername/your-repo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/JordinDC7/Resolvely)](https://github.com/yourusername/your-repo/network)
