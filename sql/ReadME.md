@@ -17,5 +17,5 @@ Some code samples from my Resolvely work that were approved to be uploaded to a 
 - Surveys Tables (With relational setups for the database tables)
 - All Associated SQL Programmability, Stored Procedures, and etc that i worked on. 
 
-# Unfortunately cannot install or run as every dependency and things like appsettings are private. However you can see the excellent code!
+# Unfortunately cannot run as sensitive files are private. However you can see and take in a sample of the excellent code!
 
