@@ -19,5 +19,5 @@ Some code samples from my Resolvely work that were approved to be uploaded to a 
 - Take-Surveys (This is the taking a quiz feature)
 - Customized dropdowns
 
-# Unfortunately cannot install or run as every dependency and things like appsettings are private. However you can see the excellent code!
+
 
